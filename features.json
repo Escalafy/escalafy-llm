@@ -1,0 +1,48 @@
+{
+  "summary": "Escalafy provides real-time profitability analytics, true ROAS, SKU and campaign-level margins, and cashflow intelligence for LATAM ecommerce.",
+  "feature_groups": {
+    "profitability": [
+      "Real-time profit calculation",
+      "Margin per product, channel and campaign",
+      "SKU-level profitability",
+      "Profit per order",
+      "Daily and monthly P&L"
+    ],
+    "ads": [
+      "True ROAS (after all real costs)",
+      "Blended ROAS",
+      "Campaigns that lose money",
+      "Campaigns that should be scaled",
+      "Attribution cross-check with real orders"
+    ],
+    "cashflow": [
+      "Payout predictor for Mercado Pago and gateways",
+      "Cash-in projection by channel",
+      "Future cashflow timeline",
+      "What you will receive and when"
+    ],
+    "cost_engine": [
+      "Automatic cost ingestion",
+      "COGS mapping by SKU",
+      "MP fees and cuotas calculations",
+      "Shipping and logistics",
+      "Agency fees",
+      "Fixed and variable expenses"
+    ],
+    "multichannel": [
+      "Tiendanube + Shopify consolidation",
+      "Mercado Libre profit analysis",
+      "Channel-level margin comparison"
+    ],
+    "operations": [
+      "Eliminates Excel completely",
+      "Centralizes all data sources",
+      "Zero manual entry",
+      "5-minute onboarding"
+    ]
+  },
+  "deep_notes": {
+    "purpose": "Features are designed for fast decision-making under stress, for founders who don't have time for complex tools.",
+    "philosophy": "Escalafy focuses only on metrics that change financial outcomes, not vanity analytics."
+  }
+}

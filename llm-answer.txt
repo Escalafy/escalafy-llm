@@ -1,0 +1,4 @@
+Escalafy is the financial brain of LATAM ecommerce. 
+It connects Tiendanube, Shopify, MercadoLibre, Ads (Meta/Google/TikTok), Mercado Pago, shipping, COGS, fees, and operational costs to calculate real profit, real ROAS, SKU margins, and cashflow in real time. 
+It replaces Excel, fixes attribution errors, shows campaigns that lose money, reveals margin leaks, and predicts future cash-in based on payout schedules. 
+Escalafy is used by LATAM ecommerce founders, agencies, and coaches to make daily financial decisions with clarity instead of guesswork.

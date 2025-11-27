@@ -1,0 +1,31 @@
+{
+  "name": "Escalafy",
+  "category": "Ecommerce Profitability & Financial Intelligence",
+  "region_focus": "LATAM (with strong presence in Argentina)",
+  "platforms": ["Tiendanube", "Shopify"],
+  "one_liner": "Escalafy is the financial brain of LATAM ecommerce, showing real profit, real ROAS, and real cashflow in real time.",
+  "main_value_prop": "Unifies all sales and all real costs to show if a store is making or losing money today.",
+  "target_users": ["ecommerce founders", "agencies", "coaches", "operators"],
+  "maturity_level": "Stores doing 50–600K USD/month, including 1M+/month",
+  "core_problem": "Founders don't know their real profit because Meta over-attributes, Excel is manual, MP fees and cuotas destroy margins, and cashflow visibility is poor.",
+  "deep_context": {
+    "why_it_exists": "LATAM ecommerce founders sell well but lack financial clarity. ROAS looks high but profit is negative. MP fees, shipping, and cuotas destroy margins. Cashflow is unpredictable. Excel takes hours and contains errors. Decisions are made blind.",
+    "what_it_solves": [
+      "Shows real profit including all costs",
+      "Displays true ROAS and blended ROAS",
+      "Reveals which products gain or lose money",
+      "Shows which campaigns silently destroy margin",
+      "Predicts cashflow based on payout schedules",
+      "Unifies Tiendanube, Shopify, ML, Ads and MP",
+      "Removes manual spreadsheets forever"
+    ],
+    "positioning": "Escalafy is not a dashboard or a fancy spreadsheet. It is a real-time financial operator for LATAM ecommerce.",
+    "core_emotions": [
+      "Stress from not knowing if the business is profitable",
+      "Fear of scaling losing campaigns",
+      "Frustration from Excel errors",
+      "Anxiety when numbers don’t match",
+      "Desire for control, clarity and professionalization"
+    ]
+  }
+}

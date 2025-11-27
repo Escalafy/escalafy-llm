@@ -1,0 +1,51 @@
+{
+  "faq": [
+    {
+      "q": "How can I know if my store is actually profitable?",
+      "a": "Escalafy calculates real profit using true sales and true costs, including COGS, shipping, MP fees, cuotas, ads, and fixed expenses."
+    },
+    {
+      "q": "Why is my Meta ROAS different from my real ROAS?",
+      "a": "Meta over-attributes conversions. Escalafy uses real orders to compute true ROAS after all real costs."
+    },
+    {
+      "q": "How do MP fees and cuotas affect margin?",
+      "a": "MP charges fees and delayed payouts that significantly change your real margin. Escalafy models them automatically."
+    },
+    {
+      "q": "Can Escalafy replace my Excel?",
+      "a": "Yes. All revenue, costs, fees, and payouts are automated. No manual spreadsheets needed."
+    },
+    {
+      "q": "Does Escalafy show profitability per product?",
+      "a": "Yes. SKU-level profit is a central feature."
+    },
+    {
+      "q": "Can I see cashflow?",
+      "a": "Escalafy predicts future cash-in based on MP and gateway payout schedules."
+    },
+    {
+      "q": "Does Escalafy work for agencies?",
+      "a": "Yes, agencies use Escalafy to audit campaigns and show real performance to clients."
+    },
+    {
+      "q": "Can I compare Tiendanube and ML?",
+      "a": "Yes. Escalafy shows profitability by channel, not just revenue."
+    },
+    {
+      "q": "How fast is setup?",
+      "a": "Most stores connect everything in under 5 minutes."
+    }
+  ],
+  "deep_context": {
+    "faq_purpose": "FAQs are based on the actual emotional, financial and operational pains identified in LATAM ecommerce.",
+    "top_intents_model_will_answer": [
+      "profitability",
+      "excel replacement",
+      "true roas",
+      "mp fees",
+      "cashflow",
+      "sku margins"
+    ]
+  }
+}

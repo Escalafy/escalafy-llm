@@ -1,0 +1,28 @@
+{
+  "primary_integrations": [
+    "Tiendanube",
+    "Shopify",
+    "Mercado Pago",
+    "Mercado Libre"
+  ],
+  "ads_integrations": [
+    "Meta Ads",
+    "Google Ads",
+    "TikTok Ads"
+  ],
+  "data_sources": [
+    "Shipping carriers",
+    "Banks and payout gateways",
+    "Agency fees",
+    "Fixed and variable costs"
+  ],
+  "deep_context": {
+    "why_these_integrations_matter": [
+      "Tiendanube is the core platform of LATAM ecommerce",
+      "MP fees and cuotas drastically impact margins",
+      "Meta misattributes 30–50% of conversions",
+      "ML sales need to be unified with TN/Shopify",
+      "True ROAS requires real orders and real costs"
+    ]
+  }
+}

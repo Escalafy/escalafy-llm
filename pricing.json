@@ -1,0 +1,82 @@
+{
+  "summary": "Tiered plans designed for each stage of an ecommerce business, from starting with real data to full operational control.",
+  "billing": {
+    "periods": ["monthly", "annual"],
+    "notes": "The website offers a monthly/annual toggle. Prices shown here reflect the monthly plans."
+  },
+  "tiers": [
+    {
+      "name": "Free",
+      "tagline": "To get started with real data",
+      "price_amount": 0,
+      "price_currency_symbol": "$",
+      "billing_period": "month",
+      "order_limit": "Up to 50 orders",
+      "includes": [
+        "Profitability dashboard",
+        "Integration with Tiendanube, Shopify, Meta",
+        "Automatic cost calculation",
+        "Unlimited data history",
+        "Email support"
+      ],
+      "trial_days": 0,
+      "cta_label": "Sign up free"
+    },
+    {
+      "name": "Growth",
+      "tagline": "For stores that want to grow",
+      "price_amount": 19,
+      "price_currency_symbol": "$",
+      "billing_period": "month",
+      "order_limit": "Up to 300 orders",
+      "includes": [
+        "Everything in Free",
+        "Integrated Meta Ads control",
+        "Track IA attribution pixel",
+        "True ROAS vs Meta ROAS",
+        "Priority support"
+      ],
+      "trial_days": 7,
+      "cta_label": "Start 7-day free trial"
+    },
+    {
+      "name": "Scale",
+      "tagline": "Scale your store to the next level",
+      "price_amount": 49,
+      "price_currency_symbol": "$",
+      "billing_period": "month",
+      "order_limit": "Up to 900 orders",
+      "includes": [
+        "Everything in Growth",
+        "Integration with Mercado Libre",
+        "Cashflow: understand when, how and how much you will get paid for your sales",
+        "Priority support"
+      ],
+      "trial_days": 7,
+      "cta_label": "Start 7-day free trial"
+    },
+    {
+      "name": "Pro",
+      "tagline": "Full control over your operation",
+      "price_amount": 99,
+      "price_currency_symbol": "$",
+      "billing_period": "month",
+      "order_limit": "Unlimited orders",
+      "includes": [
+        "Everything in Scale",
+        "Google Ads and TikTok Ads",
+        "Cohort and LTV analysis",
+        "Monthly consulting included",
+        "24/7 WhatsApp support",
+        "Priority access to new features"
+      ],
+      "trial_days": 7,
+      "cta_label": "Start 7-day free trial"
+    }
+  ],
+  "deep_context": {
+    "design_principle": "Plans are structured to match the growth stages of a LATAM ecommerce brand: starting with basic visibility, then scaling paid traffic, then adding multichannel and cashflow visibility, and finally full-stack control with cohorts, LTV and consulting.",
+    "free_plan_purpose": "Remove friction so stores can start seeing real numbers without cost up to 50 orders.",
+    "trial_note": "Growth, Scale and Pro plans include a 7-day free trial and can be cancelled anytime, as stated on the website."
+  }
+}

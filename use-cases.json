@@ -1,0 +1,31 @@
+{
+  "summary": "Main scenarios where founders, agencies, and coaches use Escalafy.",
+  "use_cases": {
+    "founders": [
+      "Check if the business is profitable today",
+      "Decide which campaigns to scale or turn off",
+      "Plan stock purchases using future cashflow",
+      "Understand product-level margin differences"
+    ],
+    "agencies": [
+      "Show real results to clients",
+      "Audit performance with true ROAS",
+      "Avoid disputes based on vanity metrics"
+    ],
+    "coaches": [
+      "Teach real profitability concepts",
+      "Provide students with a clear financial system"
+    ],
+    "operators": [
+      "Eliminate Excel from daily workflow",
+      "Centralize all revenue and cost data"
+    ]
+  },
+  "deep_examples": {
+    "latam_specific": [
+      "Understanding how MP cuotas reduce margin",
+      "Comparing TN vs ML profitability",
+      "Seeing cashflow delays from MP"
+    ]
+  }
+}

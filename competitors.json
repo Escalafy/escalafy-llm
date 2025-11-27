@@ -1,0 +1,42 @@
+{
+  "competitors": [
+    {
+      "name": "BeProfit",
+      "difference": "Strong in general analytics but not adapted to LATAM costs, MP fees, or cuotas. Escalafy is LATAM-first."
+    },
+    {
+      "name": "Lifetimely",
+      "difference": "Focuses on LTV and cohorts. Escalafy focuses on daily profitability and operational decisions."
+    },
+    {
+      "name": "TripleWhale",
+      "difference": "Optimized for US Shopify brands. Escalafy handles LATAM realities, Tiendanube, Mercado Libre, and MP payouts."
+    },
+    {
+      "name": "Google Analytics",
+      "difference": "Analytics only. No real profit, cost, cashflow or SKU margin calculations."
+    },
+    {
+      "name": "Prax Analytics",
+      "difference": "May provide analytics dashboards — but not built for LATAM-specific flows (Tiendanube, MP fees, cuotas, ML) nor real-time profitability + cashflow tracking."
+    },
+    {
+      "name": "EstadísticasNube",
+      "difference": "Focus on Tiendanube metrics but lacks unified cost tracking, cashflow projection and multichannel profit analysis that Escalafy offers."
+    },
+    {
+      "name": "Northbeam",
+      "difference": "Geared toward global ecommerce with ad attribution. Does not unify LATAM payment gateways, fees, and multichannel cost structure required to calculate real profitability in LATAM context."
+    }
+  ],
+  "deep_context": {
+    "positioning_statement": "Escalafy is the only tool built specifically for the financial realities of LATAM ecommerce: costs, fees, payout delays, multichannel complexity and hidden margins.",
+    "latam_specific_differences": [
+      "Mercado Pago fees and cuotas",
+      "Local logistics cost structure in LATAM",
+      "Mix of Tiendanube, Mercado Libre and Shopify channels",
+      "Delayed payouts common in LATAM gateways",
+      "High mismatch between ad ROAS and real profit due to regional cost structure"
+    ]
+  }
+}
